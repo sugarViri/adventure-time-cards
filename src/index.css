@@ -1,0 +1,21 @@
+:root{
+  --bg-light: hsl(0, 0%, 100%);
+  --bg-primary: hsl(221, 100%, 10%);
+  --bg-primary-light: hsl(206, 94%, 73%);
+  --bg-secondary: hsl(46, 100%, 68%);
+  --bg-accent: hsl(296, 80%, 71%);
+  --text-light: hsl(185, 100%, 97%);
+  --text-dark: hsl(210, 29%, 24%);
+  --text-regular: hsl(0, 0%, 30%);
+}
+body {
+  background-image:
+  url("src/assets/waves_back.jpg");
+  background-size: 100%; 
+  margin: 0;
+}
+@media (min-width: 540px) {
+  body {
+  background-size: 100% auto;
+  }
+}
