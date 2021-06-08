@@ -1,4 +1,6 @@
-<span style="display:block;text-align:center;">![favicon](public/favicon.ico)</span>
+<p align="center">
+  <img src="public/favicon.ico">
+</p>
 
 # Adventure Time Cards 	:star2:
 >Select Characters and get inspired by their quotes!  Made with Vue3 and Vitejs as Frontend tools
@@ -21,10 +23,13 @@
 :zap: Timeout on page reload
 
 ***
+<p align="center">
+  <img src="src/assets/adv_time_mobile.png" width="460" height="300">
+</p>
+<p align="center">
+  <img src="src/assets/adv_time_tablet.png" width="460" height="300">
+</p>
 
-![mobile general](src/assets/adv_time_mobile.png)
-
-![tablet combi](src/assets/adv_time_tablet.png)
 ***
 
 ## Installation
