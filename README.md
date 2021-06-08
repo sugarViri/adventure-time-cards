@@ -24,10 +24,10 @@
 
 ***
 <p align="center">
-  <img src="src/assets/adv_time_mobile.png" width="460" height="300">
+  <img src="src/assets/adv_time_mobile.png" width="500" height="300">
 </p>
 <p align="center">
-  <img src="src/assets/adv_time_tablet.png" width="460" height="300">
+  <img src="src/assets/adv_time_tablet.png" width="500" height="300">
 </p>
 
 ***
