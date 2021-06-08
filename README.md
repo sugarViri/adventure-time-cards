@@ -22,9 +22,9 @@
 
 ***
 
-![mobile general](src/assets/adv_time_mobile.jpg)
+![mobile general](src/assets/adv_time_mobile.png)
 
-![tablet combi](src/assets/adv_time_tablet_combi.jpg)
+![tablet combi](src/assets/adv_time_tablet.png)
 ***
 
 ## Installation
